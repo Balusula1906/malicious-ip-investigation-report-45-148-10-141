@@ -1,7 +1,7 @@
 # Malicious IP Investigation Report: 45[.]148[.]10[.]141
 
 > **Classification:** Educational / portfolio project (public OSINT only, no internal data)
-> **Analyst:** [Your Name]
+> **Analyst:** Balusula Philomon
 > **Report date:** 2026-11-03
 > **Tools used:** VirusTotal, AbuseIPDB, GreyNoise Visualizer
 > **Note:** The IP is defanged (`[.]`) in this report so it cannot be clicked or copied into a tool by accident. This is standard practice in SOC reporting.
